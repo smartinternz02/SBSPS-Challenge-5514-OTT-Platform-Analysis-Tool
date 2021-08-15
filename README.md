@@ -20,5 +20,5 @@ https://ap2.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.public_folde
 
 ## OTT ANALYSIS WEBSITE
 https://condescending-kalam-e6e05a.netlify.app
+![WhatsApp Image 2021-08-12 at 7 03 26 PM](https://user-images.githubusercontent.com/79825300/129482064-1c1eeb74-27c9-477f-a200-82c68a004cdc.jpeg)
 
-https://user-images.githubusercontent.com/79825300/129481992-16d27123-db20-4009-93a9-1eb0730de62f.jpeg
