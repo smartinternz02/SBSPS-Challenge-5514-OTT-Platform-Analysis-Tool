@@ -27,3 +27,5 @@ https://ap2.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.public_folde
 
 https://condescending-kalam-e6e05a.netlify.app
 ![WhatsApp Image 2021-08-15 at 4 50 07 PM](https://user-images.githubusercontent.com/79825300/129482122-bd0baf0a-e805-4462-859b-a9f372f10ddd.jpeg)
+
+![Demo](https://github.com/smartinternz02/SBSPS-Challenge-5514-OTT-Platform-Analysis-Tool/raw/main/demo.mkv)
